@@ -1,6 +1,6 @@
 export const SiteConfig: SiteConfig = {
   site: "https://foo.com/",
-  title: "Hsu's Blog!",
+  title: "臺灣美國協會",
   description: "这是一个个人博客",
   localSearch: true,
   markdownMath: false,
